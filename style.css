@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira', Open Sans, sans-serif;
+}
+
+.welcome-banner {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #6e93d4;
+}
+
+.portfolio-container {
+    background: #00225c;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.portfolio-item {
+    margin: 10px;
+    padding: 20px;
+    /* height: 200px; */
+    border: 1px solid #24498a;
+}
